@@ -29,8 +29,3 @@ Temel hedefler:
 | Ortam           | Jupyter Notebook                     |
 
 ---
-
-
-1. ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/uzay-gemisi-titanic-siniflandirma.git
-   cd uzay-gemisi-titanic-siniflandirma
